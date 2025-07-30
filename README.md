@@ -1,3 +1,5 @@
+[![MseeP.ai Security Assessment Badge](https://mseep.net/pr/jihoo-kim-awesome-context-engineering-badge.png)](https://mseep.ai/app/jihoo-kim-awesome-context-engineering)
+
 # awesome-context-engineering
 
 ### Table of contents
