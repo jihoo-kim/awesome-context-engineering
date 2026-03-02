@@ -31,6 +31,7 @@ Image source: https://blog.langchain.com/context-engineering-for-agents/
 - [A-mem](https://github.com/agiresearch/A-mem) (`agiresearch`) ![](https://img.shields.io/github/stars/agiresearch/A-mem.svg?style=social) A-MEM: Agentic Memory for LLM Agents
 - [MemoryOS](https://github.com/BAI-LAB/MemoryOS) (`BAI-LAB`) ![](https://img.shields.io/github/stars/BAI-LAB/MemoryOS.svg?style=social) A memory operation system for personalized AI
 - [core](https://github.com/RedPlanetHQ/core) (`RedPlanetHQ`) ![](https://img.shields.io/github/stars/RedPlanetHQ/core.svg?style=social) Your personal plug and play memory layer for LLMs
+- [context-engine-ai](https://github.com/Quinnod345/context-engine) (`Quinnod345`) ![](https://img.shields.io/github/stars/Quinnod345/context-engine.svg?style=social) Event-based context engine for AI agents with natural language queries, temporal decay, and auto-deduplication. Zero config (SQLite + local TF-IDF), scales to pgvector.
 
 ## 🔎 Select Context
 
