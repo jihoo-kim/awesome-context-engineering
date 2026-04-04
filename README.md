@@ -31,6 +31,7 @@ Image source: https://blog.langchain.com/context-engineering-for-agents/
 - [A-mem](https://github.com/agiresearch/A-mem) (`agiresearch`) ![](https://img.shields.io/github/stars/agiresearch/A-mem.svg?style=social) A-MEM: Agentic Memory for LLM Agents
 - [MemoryOS](https://github.com/BAI-LAB/MemoryOS) (`BAI-LAB`) ![](https://img.shields.io/github/stars/BAI-LAB/MemoryOS.svg?style=social) A memory operation system for personalized AI
 - [core](https://github.com/RedPlanetHQ/core) (`RedPlanetHQ`) ![](https://img.shields.io/github/stars/RedPlanetHQ/core.svg?style=social) Your personal plug and play memory layer for LLMs
+- [RecallNest](https://github.com/AliceLJY/recallnest) (`AliceLJY`) ![](https://img.shields.io/github/stars/AliceLJY/recallnest.svg?style=social) Persistent memory MCP server for AI coding agents — hybrid retrieval (vector + BM25), knowledge graph, session checkpoint/resume, and multi-scope isolation. Local-first with LanceDB.
 
 ## 🔎 Select Context
 
