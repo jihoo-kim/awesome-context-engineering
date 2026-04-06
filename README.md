@@ -1,5 +1,6 @@
 # awesome-context-engineering
 
+- [guardian-agent-prompts](https://github.com/milkomida77/guardian-agent-prompts) - 49 production-tested AI agent system prompts for Claude Code demonstrating context engineering patterns for multi-agent orchestration. MIT licensed.
 ### Table of contents
 - ✍️ [Write Context](#%EF%B8%8F-write-context)
 - 🔎 [Select Context](#-select-context)
