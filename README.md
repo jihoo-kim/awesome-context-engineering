@@ -37,6 +37,7 @@ Image source: https://blog.langchain.com/context-engineering-for-agents/
 ### MCP Servers
 - [awesome-mcp-servers](https://github.com/punkpeye/awesome-mcp-servers) ![](https://img.shields.io/github/stars/punkpeye/awesome-mcp-servers.svg?style=social) A collection of MCP servers.
 - [mcp-servers](https://github.com/modelcontextprotocol/servers) (`modelcontextprotocol`) ![](https://img.shields.io/github/stars/modelcontextprotocol/servers.svg?style=social) Model Context Protocol Servers
+- [nothumansearch](https://github.com/unitedideas/nothumansearch) (`unitedideas`) ![](https://img.shields.io/github/stars/unitedideas/nothumansearch.svg?style=social) Agent-first search engine indexing 8,000+ MCP servers and agent-readable sites, ranked across 7 signals (llms.txt, OpenAPI, ai-plugin, MCP, structured API, robots.txt, schema.org). Queryable via MCP, REST API, or browser; includes `verify_mcp` live JSON-RPC probe.
 
 ### MCP Frameworks
 - [mcp-python-sdk](https://github.com/modelcontextprotocol/python-sdk) (`modelcontextprotocol`) ![](https://img.shields.io/github/stars/modelcontextprotocol/python-sdk.svg?style=social) The official Python SDK for Model Context Protocol servers and clients
