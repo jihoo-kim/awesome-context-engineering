@@ -30,6 +30,7 @@ Image source: https://blog.langchain.com/context-engineering-for-agents/
 - [memobase](https://github.com/memodb-io/memobase) (`memodb-io`) ![](https://img.shields.io/github/stars/memodb-io/memobase.svg?style=social) Profile-Based Long-Term Memory for AI Applications. Memobase handles user profiles, memory events, and evolving context
 - [A-mem](https://github.com/agiresearch/A-mem) (`agiresearch`) ![](https://img.shields.io/github/stars/agiresearch/A-mem.svg?style=social) A-MEM: Agentic Memory for LLM Agents
 - [MemoryOS](https://github.com/BAI-LAB/MemoryOS) (`BAI-LAB`) ![](https://img.shields.io/github/stars/BAI-LAB/MemoryOS.svg?style=social) A memory operation system for personalized AI
+- [Puppyone](https://github.com/puppyone-ai/puppyone) (`puppyone-ai`) ![](https://img.shields.io/github/stars/puppyone-ai/puppyone.svg?style=social) File system for agents to connect, govern, version, and share context across agent workflows.
 - [core](https://github.com/RedPlanetHQ/core) (`RedPlanetHQ`) ![](https://img.shields.io/github/stars/RedPlanetHQ/core.svg?style=social) Your personal plug and play memory layer for LLMs
 
 ## 🔎 Select Context
