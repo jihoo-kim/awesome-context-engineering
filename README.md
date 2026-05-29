@@ -31,6 +31,7 @@ Image source: https://blog.langchain.com/context-engineering-for-agents/
 - [A-mem](https://github.com/agiresearch/A-mem) (`agiresearch`) ![](https://img.shields.io/github/stars/agiresearch/A-mem.svg?style=social) A-MEM: Agentic Memory for LLM Agents
 - [MemoryOS](https://github.com/BAI-LAB/MemoryOS) (`BAI-LAB`) ![](https://img.shields.io/github/stars/BAI-LAB/MemoryOS.svg?style=social) A memory operation system for personalized AI
 - [core](https://github.com/RedPlanetHQ/core) (`RedPlanetHQ`) ![](https://img.shields.io/github/stars/RedPlanetHQ/core.svg?style=social) Your personal plug and play memory layer for LLMs
+- [agentic-task-system](https://github.com/renezander030/agentic-task-system) (`renezander030`) ![](https://img.shields.io/github/stars/renezander030/agentic-task-system.svg?style=social) Agent-native context layer over the task app you already use (TickTick today; Notion/Obsidian on the roadmap); hybrid retrieval (dense + sparse + keyword fused via RRF) over your tasks/notes via a CLI
 
 ## 🔎 Select Context
 
