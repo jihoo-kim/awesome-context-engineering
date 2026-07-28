@@ -47,6 +47,9 @@ Image source: https://blog.langchain.com/context-engineering-for-agents/
 - [golf](https://github.com/golf-mcp/golf) (`golf-mcp`) ![](https://img.shields.io/github/stars/golf-mcp/golf.svg?style=social) Production-Ready MCP Server Framework • Build, deploy & scale secure AI agent infrastructure • Includes Auth, Observability, Debugger, Telemetry & Runtime • Run real-world MCPs powering AI Agents
 - [enrichmcp](https://github.com/featureform/enrichmcp) (`featureform`) ![](https://img.shields.io/github/stars/featureform/enrichmcp.svg?style=social) EnrichMCP is a python framework for building data driven MCP servers
 
+### Repository Knowledge Governance
+- [codee3-standard](https://github.com/Codee3Labs/codee3-standard) ![](https://img.shields.io/github/stars/Codee3Labs/codee3-standard.svg?style=social) Open spec for declaring authority and freshness on repository docs, so agents can tell which document is safe to rely on instead of guessing from resemblance.
+
 ## ✂️ Compress Context
 ### Prompt compression
 - [LLMLingua](https://github.com/microsoft/LLMLingua) (`microsoft`) ![](https://img.shields.io/github/stars/microsoft/LLMLingua.svg?style=social) To speed up LLMs' inference and enhance LLM's perceive of key information, compress the prompt and KV-Cache, which achieves up to 20x compression with minimal performance loss.
