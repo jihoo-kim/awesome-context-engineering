@@ -37,10 +37,11 @@ Image source: https://blog.langchain.com/context-engineering-for-agents/
 ### MCP Servers
 - [awesome-mcp-servers](https://github.com/punkpeye/awesome-mcp-servers) ![](https://img.shields.io/github/stars/punkpeye/awesome-mcp-servers.svg?style=social) A collection of MCP servers.
 - [mcp-servers](https://github.com/modelcontextprotocol/servers) (`modelcontextprotocol`) ![](https://img.shields.io/github/stars/modelcontextprotocol/servers.svg?style=social) Model Context Protocol Servers
+- [Xquik](https://github.com/Xquik-dev/x-twitter-scraper) - Independent X (Twitter) data API for search, follower export, monitors, and MCP.
 
 ### MCP Frameworks
 - [mcp-python-sdk](https://github.com/modelcontextprotocol/python-sdk) (`modelcontextprotocol`) ![](https://img.shields.io/github/stars/modelcontextprotocol/python-sdk.svg?style=social) The official Python SDK for Model Context Protocol servers and clients
-- [fastmcp](https://github.com/jlowin/fastmcp) (`CEO at PrefectHQ`) ![](https://img.shields.io/github/stars/jlowin/fastmcp.svg?style=social) The fast, Pythonic way to build MCP servers and clients
+- [fastmcp](https://github.com/PrefectHQ/fastmcp) (`CEO at PrefectHQ`) ![](https://img.shields.io/github/stars/jlowin/fastmcp.svg?style=social) The fast, Pythonic way to build MCP servers and clients
 - [fastapi_mcp](https://github.com/tadata-org/fastapi_mcp) (`tadata-org`) ![](https://img.shields.io/github/stars/tadata-org/fastapi_mcp.svg?style=social) Expose your FastAPI endpoints as Model Context Protocol (MCP) tools, with Auth!
 - [mcp-agent](https://github.com/lastmile-ai/mcp-agent) (`lastmile-ai`) ![](https://img.shields.io/github/stars/lastmile-ai/mcp-agent.svg?style=social) Build effective agents using Model Context Protocol and simple workflow patterns
 - [mcp-use](https://github.com/mcp-use/mcp-use) (`mcp-use`) ![](https://img.shields.io/github/stars/mcp-use/mcp-use.svg?style=social) mcp-use is the easiest way to interact with mcp servers with custom agents
