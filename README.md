@@ -32,6 +32,8 @@ Image source: https://blog.langchain.com/context-engineering-for-agents/
 - [MemoryOS](https://github.com/BAI-LAB/MemoryOS) (`BAI-LAB`) ![](https://img.shields.io/github/stars/BAI-LAB/MemoryOS.svg?style=social) A memory operation system for personalized AI
 - [core](https://github.com/RedPlanetHQ/core) (`RedPlanetHQ`) ![](https://img.shields.io/github/stars/RedPlanetHQ/core.svg?style=social) Your personal plug and play memory layer for LLMs
 
+- [OpenViking](https://github.com/volcengine/OpenViking) (`volcengine`) ![](https://img.shields.io/github/stars/volcengine/OpenViking.svg?style=social) Self-evolving Context Database for AI Agents; unifies Agent Memory, Knowledge RAG and Skills.
+
 ## 🔎 Select Context
 
 ### MCP Servers
