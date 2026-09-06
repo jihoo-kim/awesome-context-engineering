@@ -37,6 +37,7 @@ Image source: https://blog.langchain.com/context-engineering-for-agents/
 ### MCP Servers
 - [awesome-mcp-servers](https://github.com/punkpeye/awesome-mcp-servers) ![](https://img.shields.io/github/stars/punkpeye/awesome-mcp-servers.svg?style=social) A collection of MCP servers.
 - [mcp-servers](https://github.com/modelcontextprotocol/servers) (`modelcontextprotocol`) ![](https://img.shields.io/github/stars/modelcontextprotocol/servers.svg?style=social) Model Context Protocol Servers
+- [mcp-server](https://github.com/contextstream/mcp-server) (`contextstream`) ![](https://img.shields.io/github/stars/contextstream/mcp-server.svg?style=social) Shared project context MCP for Cursor, Claude Code, Codex, Grok — hosted at https://mcp.contextstream.io/mcp
 
 ### MCP Frameworks
 - [mcp-python-sdk](https://github.com/modelcontextprotocol/python-sdk) (`modelcontextprotocol`) ![](https://img.shields.io/github/stars/modelcontextprotocol/python-sdk.svg?style=social) The official Python SDK for Model Context Protocol servers and clients
