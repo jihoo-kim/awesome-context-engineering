@@ -31,6 +31,7 @@ Image source: https://blog.langchain.com/context-engineering-for-agents/
 - [A-mem](https://github.com/agiresearch/A-mem) (`agiresearch`) ![](https://img.shields.io/github/stars/agiresearch/A-mem.svg?style=social) A-MEM: Agentic Memory for LLM Agents
 - [MemoryOS](https://github.com/BAI-LAB/MemoryOS) (`BAI-LAB`) ![](https://img.shields.io/github/stars/BAI-LAB/MemoryOS.svg?style=social) A memory operation system for personalized AI
 - [core](https://github.com/RedPlanetHQ/core) (`RedPlanetHQ`) ![](https://img.shields.io/github/stars/RedPlanetHQ/core.svg?style=social) Your personal plug and play memory layer for LLMs
+- [neither-mcp](https://github.com/stonianua/neither-mcp) (`stonianua`) ![](https://img.shields.io/github/stars/stonianua/neither-mcp.svg?style=social) Project context MCP for Cursor and Claude Desktop: selected notes/docs with related retrieval and source evidence (local stdio).
 
 ## 🔎 Select Context
 
