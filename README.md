@@ -33,6 +33,7 @@ Image source: https://blog.langchain.com/context-engineering-for-agents/
 - [core](https://github.com/RedPlanetHQ/core) (`RedPlanetHQ`) ![](https://img.shields.io/github/stars/RedPlanetHQ/core.svg?style=social) Your personal plug and play memory layer for LLMs
 
 ## 🔎 Select Context
+- [Agent-Body](https://github.com/1420079678-ctrl/agent-body) (`1420079678-ctrl`) ![](https://img.shields.io/github/stars/1420079678-ctrl/agent-body.svg?style=social) Persistent memory with idle consolidation and task-based tool-schema gating for DeepSeek Harness; includes an offline Node.js demo.
 
 ### MCP Servers
 - [awesome-mcp-servers](https://github.com/punkpeye/awesome-mcp-servers) ![](https://img.shields.io/github/stars/punkpeye/awesome-mcp-servers.svg?style=social) A collection of MCP servers.
