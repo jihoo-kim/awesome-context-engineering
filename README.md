@@ -37,6 +37,7 @@ Image source: https://blog.langchain.com/context-engineering-for-agents/
 ### MCP Servers
 - [awesome-mcp-servers](https://github.com/punkpeye/awesome-mcp-servers) ![](https://img.shields.io/github/stars/punkpeye/awesome-mcp-servers.svg?style=social) A collection of MCP servers.
 - [mcp-servers](https://github.com/modelcontextprotocol/servers) (`modelcontextprotocol`) ![](https://img.shields.io/github/stars/modelcontextprotocol/servers.svg?style=social) Model Context Protocol Servers
+- [Mode VC LLM Inference Cost Calculator](https://modevc.com/tools/llm-inference-calculator) - Free browser-side LLM token unit economics, prompt caching, and gross margin calculator across 8 frontier and open-weights models.
 
 ### MCP Frameworks
 - [mcp-python-sdk](https://github.com/modelcontextprotocol/python-sdk) (`modelcontextprotocol`) ![](https://img.shields.io/github/stars/modelcontextprotocol/python-sdk.svg?style=social) The official Python SDK for Model Context Protocol servers and clients
