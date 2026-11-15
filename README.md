@@ -37,6 +37,7 @@ Image source: https://blog.langchain.com/context-engineering-for-agents/
 ### MCP Servers
 - [awesome-mcp-servers](https://github.com/punkpeye/awesome-mcp-servers) ![](https://img.shields.io/github/stars/punkpeye/awesome-mcp-servers.svg?style=social) A collection of MCP servers.
 - [mcp-servers](https://github.com/modelcontextprotocol/servers) (`modelcontextprotocol`) ![](https://img.shields.io/github/stars/modelcontextprotocol/servers.svg?style=social) Model Context Protocol Servers
+- [No Stairs Please MCP](https://nostairsplease.com/mcp) Remote MCP server for searching independent US live-music venues, load-in specs, stage dimensions, and drive-time tour routing.
 
 ### MCP Frameworks
 - [mcp-python-sdk](https://github.com/modelcontextprotocol/python-sdk) (`modelcontextprotocol`) ![](https://img.shields.io/github/stars/modelcontextprotocol/python-sdk.svg?style=social) The official Python SDK for Model Context Protocol servers and clients
